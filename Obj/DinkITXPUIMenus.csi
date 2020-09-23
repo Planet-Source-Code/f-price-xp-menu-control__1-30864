@@ -1,0 +1,16 @@
+[History]
+B0=DinkITXPUIMenus/XPUIMenuControl
+B1=DinkITXPUIMenus/mGDI
+B2=DinkITXPUIMenus/frmTempForm
+B3=DinkITXPUIMenus/XPUIMenus
+B4=DinkITXPUIMenus/XPUIMenu
+B5=DinkITXPUIMenus/MenuItems
+B6=DinkITXPUIMenus/MenuItem
+B7=DinkITXPUIMenus/clsMenu
+B8=DinkITXPUIMenus/XPUIMenu/ShowMenu
+B9=DinkITXPUIMenus/MenuItem/pDrawItem
+B10=DinkITXPUIMenus/MenuItems/Add
+B11=DinkITXPUIMenus/MenuItem/Caption
+B12=DinkITXPUIMenus/MenuItem/CheckOption
+B13=DinkITXPUIMenus/XPUIMenu/oTimer_Timer
+B14=DinkITXPUIMenus/XPUIMenuControl/ShowMenu

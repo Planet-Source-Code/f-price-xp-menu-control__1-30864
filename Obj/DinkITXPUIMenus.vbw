@@ -1,0 +1,8 @@
+XPUIMenuControl = 0, 5, 702, 487, , 76, 6, 692, 326, C
+clsMenu = 68, 63, 718, 412, 
+mGDI = 66, 87, 683, 438, 
+MenuItem = 52, 35, 702, 378, 
+MenuItems = 110, 145, 760, 494, 
+XPUIMenu = -85, 22, 675, 509, 
+XPUIMenus = 44, 58, 694, 407, 
+frmTempForm = 0, 0, 0, 0, C, 44, 58, 661, 409, C
